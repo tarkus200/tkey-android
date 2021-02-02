@@ -1,2 +1,3 @@
+include ':common_types'
 include ':app'
-rootProject.name = "tKey"
+rootProject.name = "tkey"
