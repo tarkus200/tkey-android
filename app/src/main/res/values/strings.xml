@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">tKey</string>
+    <string name="note_this_is_a_testing_application">Note: This is a testing application. Please use console for debugging.</string>
+    <string name="mock_login">Mock login</string>
+    <string name="login_and_utilities">Login and utilities</string>
+    <string name="create_new_key">Create new key</string>
+    <string name="reconstruct_key">Reconstruct key</string>
+    <string name="get_key_details">Get key details</string>
+    <string name="get_sdk_object">Get SDK object</string>
+    <string name="console">Console</string>
+    <string name="console_log">console.log</string>
+    <string name="login_with_torus">Login with Torus</string>
 </resources>
