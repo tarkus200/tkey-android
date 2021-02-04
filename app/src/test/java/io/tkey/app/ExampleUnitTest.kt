@@ -1,4 +1,4 @@
-package io.tkey.core
+package io.tkey.app
 
 import org.junit.Test
 

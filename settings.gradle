@@ -1,3 +1,3 @@
-include ':core'
+include ':types'
 include ':app'
-rootProject.name = "tkey-android"
+rootProject.name = "tkey"
